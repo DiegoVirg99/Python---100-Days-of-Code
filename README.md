@@ -1,4 +1,5 @@
-#Python - 100 Days of Code
+# Python - 100 Days of Code
+
 In this repository, I collect the main projects built during my "100 Days of Code" journey (Udemy Bootcamp - Angela Yu).
 Here you can find my versions of the projects, for example:
 -**Hirst painting project (day 18)** 
